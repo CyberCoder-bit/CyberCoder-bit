@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.gif" width="100%" alt="Animated CyberCoder-bit banner — Jason, cybersecurity competitor and developer" />
+  <img src="./assets/header-animated-v4.gif" width="100%" alt="Animated CyberCoder-bit banner — Jason, cybersecurity competitor and developer" />
 </div>
 
 <div align="center">
